@@ -1,6 +1,6 @@
 # MyNotes 📒
 
-Application mobile React Native pour créer, modifier et gérer vos notes facilement.  
+Application **React Native** pour créer, modifier et gérer vos notes facilement.  
 Idéale pour organiser vos idées et souvenirs.
 
 ---
