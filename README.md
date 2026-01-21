@@ -30,7 +30,8 @@ Idéale pour organiser vos idées et souvenirs.
 1. Cloner le dépôt : 
 
 ```bash 
-git clone https://github.com/khalfaoui-samar/mynotes.git 
+git clone https://github.com/khalfaoui-samar/My-Notes-.git
+ 
  ```
 
 2. Installer les dépendances :
